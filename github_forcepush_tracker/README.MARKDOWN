@@ -1,3 +1,12 @@
+#todo
+
+finish tests
+finish readme (refer to https://docs.sentry.io/server/installation/python/ doc which is pretty nice)
+fix logging
+maybe switch to sqalchemy
+add better config options for logging and settings file path.
+
+
 # Github Force Push Tracker
 
 #### This is a simple web.py Github webhook server to track commits overriden by force pushes to Github branches.
